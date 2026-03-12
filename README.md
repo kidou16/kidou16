@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**kidou16/kidou16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yugal, based in Bayreuth, Germany 🇩🇪
 
-Here are some ideas to get you started:
+I'm doing my Master's in **Computer Science & Philosophy** at Uni Bayreuth — yes, that combo is intentional. I genuinely believe the future of AI isn't just a technical problem, it's a philosophical one too.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ What I work with
+
+- **Languages:** Python, SQL, R
+- **ML/Data:** TensorFlow, Scikit-learn, Pandas, NumPy
+- **Viz:** Tableau, Power BI, Matplotlib, Seaborn
+- **Tools:** Git, Flask, MySQL, Google Cloud
+
+---
+
+## 👀 A bit about me
+
+- 📍 Originally from India, now figuring out life in Germany
+- 🐱 Cat person — unquestionably
+- 🍥 Deep into anime — my all time favourite is *Danshi Koukousei no Nichijou*
+- ✏️ I like to draw sometimes when the mood hits
+- 🌍 Currently open to **Data Analyst** roles
+- 📬 yugaljagtap18@gmail.com
