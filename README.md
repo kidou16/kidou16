@@ -1,12 +1,11 @@
-# Hey there 👋
-
-I'm Yugal, based in Bayreuth, Germany 🇩🇪
+## Hey there! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFkY21oajltejIxd3g2bjh3Y2JxNnJka2gxaTFxZnY5Z3FhcmFsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gggOsc0HFC1DcTHKLO/giphy.gif" width="30px"/>
+I'm [Yugal](https://yugaljagtap.vercel.app/), based in Bayreuth, Germany 🇩🇪
 
 I'm doing my Master's in **Computer Science & Philosophy** at Uni Bayreuth, and yes, that combo is intentional. I genuinely believe the future of AI isn't just a technical problem, it's a philosophical one too.
 
 ---
 
-## 🛠️ What I work with
+### What I work with
 
 - **Languages:** Python, SQL, R
 - **ML/Data:** TensorFlow, Scikit-learn, Pandas, NumPy
@@ -15,11 +14,11 @@ I'm doing my Master's in **Computer Science & Philosophy** at Uni Bayreuth, and 
 
 ---
 
-## 👀 A bit about me
+### A bit about me
 
 - 📍 Originally from India, now figuring out life in Germany
-- 🐱 Cat person — unquestionably
-- 🍥 Deep into anime — my all time favourite is *Danshi Koukousei no Nichijou*
+- 🐱 Cat person - unquestionably
+- 🍥 Deep into anime - my all time favourite is *Danshi Koukousei no Nichijou*
 - ✏️ I like to draw sometimes when the mood hits
 - 🌍 Currently open to **Data Analyst** roles
 - 📬 yugaljagtap18@gmail.com
