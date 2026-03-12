@@ -2,7 +2,7 @@
 
 I'm Yugal, based in Bayreuth, Germany 🇩🇪
 
-I'm doing my Master's in **Computer Science & Philosophy** at Uni Bayreuth — yes, that combo is intentional. I genuinely believe the future of AI isn't just a technical problem, it's a philosophical one too.
+I'm doing my Master's in **Computer Science & Philosophy** at Uni Bayreuth, and yes, that combo is intentional. I genuinely believe the future of AI isn't just a technical problem, it's a philosophical one too.
 
 ---
 
