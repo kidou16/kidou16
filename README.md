@@ -10,7 +10,7 @@ I'm doing my Master's in **Computer Science** at Universität Bayreuth, focusing
 - **Languages:** Python, SQL, R
 - **ML/Data:** TensorFlow, Scikit-learn, Pandas, NumPy
 - **Viz:** Tableau, Power BI, Matplotlib, Seaborn
-- **Tools:** Git, Flask, MySQL, Google Cloud
+- **Tools:** Git, Flask, MySQL, SQLite, BigQuery
 
 ---
 
