@@ -19,6 +19,6 @@ I'm doing my Master's in **Computer Science** at Universität Bayreuth, focusing
 - 📍 Originally from India, now figuring out life in Germany
 - 🐱 Cat person - unquestionably
 - 🍥 Deep into anime - my all time favourite is *Danshi Koukousei no Nichijou*
-- ✏️ I like to draw sometimes when the mood hits
-- 🌍 Currently open to **Data Analyst / Data Science / ML** roles
+- ✏️ I like to draw sometimes, but it depends on my mood.
+- 🌍 Currently working as a Data Analyst Working Student at TenneT.
 - 📬 yugaljagtap18@gmail.com
